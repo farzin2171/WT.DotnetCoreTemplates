@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "templates", "templates", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WTSimpleWebApi", "WTSimpleWebApi", "{7BC40C5C-C276-4F87-8B76-563C95F96EBD}"
 	ProjectSection(SolutionItems) = preProject
+		src\Content\WTSimpleWebApi\.template.config\ide.host.json = src\Content\WTSimpleWebApi\.template.config\ide.host.json
 		src\Content\WTSimpleWebApi\.template.config\template.json = src\Content\WTSimpleWebApi\.template.config\template.json
 	EndProjectSection
 EndProject
